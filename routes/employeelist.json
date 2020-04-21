@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Raymond Addo",
+        "ID": "EMP001",
+        "position": "HR Manager",
+        "image": "/images/Ray.jpg"
+    },
+    {
+        "name": "Bismark Osabutey",
+        "ID": "EMP002",
+        "position": "IT Manager",
+        "image": "/images/Bismark.jpg"
+    },
+    {
+        "name": "Aaron Bruce",
+        "ID": "EMP003",
+        "position": "Production Manager",
+        "image": "/images/Aaron.jpg"
+    },
+    {
+        "name": "Morris Vorvor",
+        "ID": "EMP004",
+        "position": "Arranger",
+        "image": "/images/Morris.jpg"
+    }
+]

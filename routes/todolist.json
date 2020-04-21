@@ -1,0 +1,27 @@
+[
+    {
+        "activity": "Rehearsals",
+        "department": "HR Department",
+        "employee": "Raymond Addo",
+        "status":"✅"
+    },
+    {
+        "activity": "Attend Meetings",
+        "department": "Arrangers",
+        "employee": "Morris Vorvor",
+        "status" : "❌"
+    },
+    {
+        "activity": "Weekly Expenses",
+        "department": "Production ",
+        "employee": "Aaron Bruce",
+
+        "status" : "✅"
+    },
+    {
+        "activity": "Account Review",
+        "department": "IT Manager",
+        "employee": "Bismark Osabutey",
+        "status" : "❌"
+    }
+]
